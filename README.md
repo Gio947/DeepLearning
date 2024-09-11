@@ -17,4 +17,4 @@ Per poter eseguire i file bisogna lanciare tramite il seguente comando il file m
 - Per RGB e LiDAR: python ./fileRGBLiDAR.py [train|test]
 
 
-Cartella drive con i migliori pesi relativi ai tre task e il dataset composto da file .parquet : 
+Cartella drive con i migliori pesi relativi ai tre task e il dataset composto da file .parquet : https://drive.google.com/drive/folders/1ArN0oiGm1_k3s2REy9MvaLSK6_2Mwjex?usp=drive_link
